@@ -1,0 +1,12 @@
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/service/PersonServiceImpl.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/configuration/GeneralBeans.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/PersonsPage.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/service/PersonService.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/configuration/LoggedDataSource.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/dao/PersonDaoImpl.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/configuration/HibernateConfiguration.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/entity/Person.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/WicketApplication.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/dao/PersonDao.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/dao/AbstractDao.java
+/home/student/liza_workspace/weblist/src/main/java/ee/itcollege/weblist/dao/AbstractDaoImpl.java
